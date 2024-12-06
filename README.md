@@ -1,2 +1,2 @@
 # SDK
-My name SDK that is call Simson Davis K
+My name is SDK that is called Simson Davis K
